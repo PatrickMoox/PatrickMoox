@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatrickMoox
 - 👀 I’m interested in prompt engineering and Ai
-- 🌱 I’m currently learning pyton
-- 💞️ I’m looking to collaborate on how can develop my coding akills 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on how I can develop my coding skills 
 - 📫 How to reach me upaime@outlook.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: Ai is my hobby 
