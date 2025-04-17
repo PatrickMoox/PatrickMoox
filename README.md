@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrickMoox
-- 👀 I’m interested in prompt engineering and Ai
+- 👀 I’m interested in prompt engineering, AI, data analytics, and data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on how I can develop my coding skills 
 - 📫 How to reach me upaime@outlook.com
